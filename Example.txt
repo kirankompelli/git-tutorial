@@ -1,0 +1,17 @@
+we will have 4 areas in git.
+1.remote repository
+// where we can store our data in server.
+2.local repository
+// we can create our own local folder where we can use this folder for transfering the files in this folder to server.
+3.Staging area
+// we have this area where we can send our required files from a folder.
+>> add
+4.working directory
+// if we are performing any git commands on our local repository it will be known as working directory.
+
+** to  make our floder as local folder 
+we have >>git init command
+to see status we have>> git status
+
+// to send files from local repository to remote repository we have command >>push
+// to store our file in local repository we have >> commit
