@@ -12,6 +12,19 @@ we will have 4 areas in git.
 ** to  make our floder as local folder 
 we have >>git init command
 to see status we have>> git status
-
+to set default mail
+>>git config --global user.email "kompellikiran15241@gmail.com"
 // to send files from local repository to remote repository we have command >>push
 // to store our file in local repository we have >> commit
+>>git branch
+
+to connect github
+>> command->git remote add origin https://github.com/kirankompelli/git-tutorial.git
+
+we have to specify the branchname while pushing
+>>git push -u origin main
+
+to create a new branch
+>> git checkout -b "copy1"
+
+git pull 
