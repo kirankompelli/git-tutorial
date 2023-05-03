@@ -28,3 +28,15 @@ to create a new branch
 >> git checkout -b "copy1"
 
 git pull 
+
+
+hii 
+>git status
+>git add two.txt
+>git status
+git add gitexplanation.png
+>git commit -m "example, two and gitpic"
+git branch
+git push -u origin copy1
+git checkout -b copy2
+git push --set-upstream origin master
